@@ -1,0 +1,5 @@
+br\com\example\model\Municipio.class
+br\com\example\MeuProjetoApplication.class
+br\com\example\repository\MunicipioRepository.class
+br\com\example\controller\MunicipioController.class
+br\com\example\model\MunicipioVO.class
